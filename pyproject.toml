@@ -1,0 +1,17 @@
+[project]
+name = "nl2sql"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "deepagents>=0.5.5",
+    "fastmcp>=3.2.4",
+    "langchain-deepseek>=1.0.1",
+    "langchain-mcp-adapters>=0.2.2",
+    "langgraph-cli[inmem]>=0.4.24",
+    "pandas>=3.0.2",
+]
+# Cache key: MC8zOmFIVnBZMlhwcWF6bW5wZmx1Ymc2ZG01YWVRPT06NGQ5OTJiYTA=
+
+# Lock file version: MS8zOmFIVnBZMlhwcWF6bW5wZmx1Ymc2ZG01YWVRPT06NGQ5OTJiYTA=
+# Package registry: Mi8zOmFIVnBZMlhwcWF6bW5wZmx1Ymc2ZG01YWVRPT06NGQ5OTJiYTA=
